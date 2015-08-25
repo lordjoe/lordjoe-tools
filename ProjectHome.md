@@ -1,0 +1,1 @@
+These tools were used by other projects for Proteomics including hydra-proteomics but were factored out into a separate library with code for running Hadoop jobs with little domain specificity
